@@ -1,6 +1,6 @@
 ## Lab 17 - Hangman
  
-For the most part this semester, we have provided the `main()` method to control your program and you implemented specific methods. This time, we've provided you all the methods needed to make a [hangman](https://en.wikipedia.org/wiki/Hangman_(game)) game, and you need to write the `main()` method. The [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab17/package-summary.html) has what methods were already written for you and their basic functionality. This will be very helpful for `controller` method in the Practical! 
+For the most part this semester, we have provided the `main()` method to control your program and you implemented specific methods. This time, we've provided you all the methods needed to make a [hangman](https://en.wikipedia.org/wiki/Hangman_(game)) game, and you need to write the `main()` method. The [javadoc](https://csu-compsci-cs163-4.github.io/Lab17Hangman/package-summary.html) has what methods were already written for you and their basic functionality. This will be very helpful for `controller` method in the Practical! 
 
 ## Step 1: Getting Started
 Take a look at the [javadoc](https://csu-compsci-cs163-4.github.io/Lab17Hangman/package-summary.html) and the code provided to you. Refresh/familiarize yourself with the rules of [hangman](https://en.wikipedia.org/wiki/Hangman_(game)).
