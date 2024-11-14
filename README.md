@@ -12,7 +12,7 @@ For this method, you will need to:
 1. Create a new `HangmanGame` object
 2. Call the `printScreen()` method (remember how to call methods on different objects!)
 3. Use `getInput("Would you like easy or hard words? ")` to get user input on what difficulty they would like
-4. Call `initializeWords()`, passing in `selectDifficulty()`, which requires the input from the user you just got.
+4. Call initializeWords(), passing in the input from step 3.
 5. Call `wordSelect()`.
 6. Print the initial hangman gallows by calling `getZero()`.
 7. Call `printWordProgress()`
